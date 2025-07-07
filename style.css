@@ -1,0 +1,15 @@
+body{
+  min-height:100vh;
+  background: linear-gradient(45deg,pink,red,lightblue);         
+  display: flex;
+  justify-content: center;
+  aling-items: center;
+  
+}
+span{
+  background-color: ;
+  padding:20px;
+  border-radius: 10ppx;
+  box-shadow:0 0 6px black;
+  
+}
